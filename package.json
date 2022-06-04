@@ -1,0 +1,32 @@
+{
+    "name": "darktheme-jckai",
+    "displayName": "DarkTheme JcKai",
+    "description": "Dark Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DarkTheme JcKai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DarkTheme JcKai-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icons/icon-juancarlos18.png",
+    "author": {
+        "name": "Juancarlos Chapoñan",
+        "email": "juancarlos.i18@outlook.es",
+        "url": "https://www.linkedin.com/in/juan-carlos-chapo%C3%B1an-sernaque-594848123"
+    },
+    "repository": {
+        "url": "https://github.com/juancarlos18/JcKai-Dark-Theme.git",
+        "type": "git"
+    },
+    "publisher": "Juancarlos18"
+}
