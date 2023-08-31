@@ -21,7 +21,7 @@
 
 <br>
 
-<p style="display: block-inline; text-align:center; color: #DB6EFF; font-weight:600; font-size:18px">Screenshots </p>
+<p style="display: block-inline; text-align:center; color: #000000; font-weight:600; font-size:18px">Screenshots </p>
 
 <img src="images/Screenshot 0.png">
 <br>
