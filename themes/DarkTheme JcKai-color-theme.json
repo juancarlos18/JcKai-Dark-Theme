@@ -1,22 +1,16 @@
 {
 	"name": "Black Theme",
 	"colors": {
-		//"editor.background": "#0e0f13",
 		"editor.background": "#0e0e0e",
 		"editor.foreground": "#ffffff",
-		//"titleBar.activeBackground": "#0e0f13",
 		"titleBar.activeBackground": "#0e0e0e",
 		"titleBar.border": "#0e0e0e",
-		//"titleBar.inactiveBackground": "#0e0f13",
 		"titleBar.inactiveBackground": "#0e0e0e",
 		"titleBar.activeForeground": "#fff",
 		"sideBarTitle.foreground": "#c5b5e4",
-		//"sideBar.background": "#0e0f13",
 		"sideBar.background": "#0e0e0e",
 		"sideBar.foreground": "#ffffffe3",
-		//"sideBarSectionHeader.background": "#0e0f13",
 		"sideBarSectionHeader.background": "#0e0e0e",
-		//"panel.background": "#070707",
 		"panel.background": "#0e0e0e",
 		"panel.border": "#0e0e0e",
 		"focusBorder": "#0e0e0e",
@@ -31,8 +25,6 @@
 		"menu.background": "#151515",
 		"menu.foreground": "#FFFFFF",
 		"menu.selectionBorder": "#53535300",
-		// "menu.selectionBackground": "#333640",
-		// "menu.selectionForeground": "#688fdd",
 		"menu.selectionBackground": "#2f2f2f",
 		"menu.selectionForeground": "#FFFFFF",
 		"menu.separatorBackground": "#0e0f1300",
@@ -41,15 +33,12 @@
 		"list.focusOutline": "#0f0f0f",
 		"list.hoverBackground": "#282828",
 		"list.hoverForeground": "#ffffff",
-		//"activityBar.background": "#0e0f13",
 		"activityBar.background": "#0e0e0e",
-		//"activityBar.foreground": "#767ffd",
 		"activityBar.foreground": "#ffffff",
 		"activityBar.activeBorder": "#618bff",
 		"activityBar.inactiveForeground": "#6b707e",
 		"activityBarBadge.background": "#2f3045",
 		"activityBarBadge.foreground": "#6f9dff",
-		//"editorGroupHeader.tabsBackground": "#0e0f13",
 		"editorGroupHeader.tabsBackground": "#0e0e0e",
 		"editorGroup.border": "#171820",
 		"tab.activeBackground": "#161616",
@@ -58,7 +47,6 @@
 		"tab.activeBorderTop": "#1a1a1a",
 		"tab.border": "#1a1a1a",
 		"tab.hoverBorder": "#0e0e0e",
-		//"tab.inactiveBackground": "#0e0f13",
 		"tab.inactiveBackground": "#000000",
 		"tab.inactiveForeground": "#525460",
 		"editorLineNumber.foreground": "#525460",
@@ -67,9 +55,7 @@
 		"editor.selectionBackground": "#1d1f27",
 		"editor.lineHighlightBackground": "#131419",
 		"editor.lineHighlightBorder": "#dd414100",
-		//"editorGutter.background": "#0e0f13",
 		"editorGutter.background": "#0e0e0e",
-		//"minimap.background": "#0e0f13",
 		"minimap.background": "#0e0e0e",
 		"minimapSlider.background": "#ffffff39",
 		"minimapSlider.hoverBackground": "#ffffff54",
@@ -154,7 +140,7 @@
 				"meta.tag",
 				//"punctuation.definition.tag",
 				// "punctuation.separator.inheritance.php",
-				//"punctuation.definition.tag.html",
+				"punctuation.definition.tag.html",
 				//"punctuation.definition.tag.begin.html",
 				//"punctuation.definition.tag.end.html",
 				// "punctuation.section.embedded",
@@ -162,7 +148,8 @@
 				// "keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#c2bfff"
+				"foreground": "#cdcff6",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -173,7 +160,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#9fa9c3",
+				"foreground": "#8692ff",
 				"fontStyle": "bold"
 			}
 		},
@@ -187,7 +174,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#886dff",
+				"foreground": "#ffac63",
 				"fontStyle": "bold"
 			}
 		},
@@ -223,7 +210,8 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#d794f1"
+				"foreground": "#a6b9ff",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -238,7 +226,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#d3dbff"
+				"foreground": "#a8adc7"
 			}
 		},
 		{
@@ -278,7 +266,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#8b8b8b"
+				"foreground": "#cacde6"
 			}
 		},
 		{
@@ -328,7 +316,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#8795ff",
+				"foreground": "#dee6ff",
 				"fontStyle": "italic bold"
 			}
 		},
@@ -349,7 +337,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#8956ff"
+				"foreground": "#ff8f39"
 			}
 		},
 		{
